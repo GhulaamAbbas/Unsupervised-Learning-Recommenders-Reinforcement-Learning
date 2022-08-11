@@ -44,4 +44,5 @@ Libraries: It is used in clustering different books on the basis of topics and i
 Insurance: It is used to acknowledge the customers, their policies and identifying the frauds.
 City Planning: It is used to make groups of houses and to study their values based on their geographical locations and other factors present. 
 
-Earthquake studies: By learning the earthquake-affected areas we can determine the dangerous zones. 
+Earthquake studies: By learning the earthquake-affected areas we can determine the dangerous zones.
+
